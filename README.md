@@ -8,7 +8,7 @@
   ```
   <script src="showdown.js"></script>
   ```
--Also run the following command on your your terminal if you are not using webpack/bundler
+- Also run the following command on your your terminal if you are not using webpack/bundler
   cp node_modules/showdown/dist/showdown.js public
   
 - Remember to uncheck enable js map and enable css map from your cocnsole setting
