@@ -1,0 +1,34 @@
+*{
+    background-color:#001D6E;
+    color:#EF9F9F;
+}
+
+.wrapper{
+    display:flex;
+    flex-direction:row;
+    gap:5%;
+    margin-top:5%;
+    margin-bottom:5%;
+    border-top:2px solid #F47C7C;
+    border-bottom:2px solid #F47C7C;
+    padding:5%;
+}
+.text-editor{
+    width:45%;
+    text-decoration:none;
+    resize:none;
+    border:none;
+    
+}
+.text-editor:focus, input:focus{
+    outline: none;
+}
+.preview{
+    width:45%;
+}
+.vertical{
+    border-left: 2px solid #F47C7C;
+    height:500px;
+    margin-top:-5%;
+    margin-bottom:-5%;
+}
