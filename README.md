@@ -2,7 +2,7 @@
 
 ## Note:
 
--Craete a public folder and add your HTML,CSS and JAva files into it
+- Create a public folder and add your HTML,CSS and JAva files into it
 - After installing the showdown package
   add the following snippet before the main javascript <script> tags 
   ```
