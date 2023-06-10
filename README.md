@@ -1,6 +1,6 @@
 # MarkDown-Editor
 
-Check out the Editor : sahu-01.github.io/MarkDown-Editor/public/
+Check out the Editor : [here](sahu-01.github.io/MarkDown-Editor/public/)
 
 ## Note:
 
